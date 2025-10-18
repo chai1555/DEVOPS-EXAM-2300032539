@@ -11,9 +11,9 @@
 	<groupId>com.klef</groupId>
 	<artifactId>backend-springbootapp</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<packaging>war</packaging>
 	<name>backend-springbootapp</name>
 	<description>Spring Boot Backend Project</description>
+	<packaging>war</packaging>
 	<url/>
 	<licenses>
 		<license/>
@@ -64,7 +64,7 @@
 	</dependencies>
 
 	<build>
-<finalName>2300032539-backend</finalName>
+	<finalName>2300032539-backend</finalName>
 		<plugins>
 			<plugin>
 				<groupId>org.springframework.boot</groupId>
