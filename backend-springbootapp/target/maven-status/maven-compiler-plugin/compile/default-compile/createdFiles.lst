@@ -1,0 +1,4 @@
+com\klef\repository\ProductRepository.class
+com\klef\entity\Product.class
+com\klef\BackendSpringbootappApplication.class
+com\klef\controller\ProductController.class
